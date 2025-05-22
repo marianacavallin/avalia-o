@@ -1,0 +1,30 @@
+
+header {
+    background-color: blueviolet;
+    font-size: 16px;
+} 
+
+#cont_cabecalho {
+    background-color: blueviolet;
+}
+
+.principal {
+    background-color: green;
+    color: white;
+}
+footer p .principal {
+    background-color: blueviolet; /*comentário*/
+}
+div {
+    background-color:rgb(red, green, blue)
+}
+body{
+    background-image: url(../img/05487d49-c5c6-40a3-8d31-91b63270fa35.jpg);
+    background-repeat: repeat-x;
+    background-position: center center;
+    background-attachment: fixed;
+    font-family: "Roboto", sans-serif;
+}
+h1 {
+    
+}
